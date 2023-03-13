@@ -73,12 +73,113 @@ ul {
     color: #FFFFFF;
     text-align: center;
     font-weight: 500;
-    font-size: 72px;
+    font-size: 60px;
     max-width: 1219px;
     min-width: 320px;
     margin: 0 auto;
     padding: 0 15px;
     box-sizing: border-box;
-   
 
+   
    }
+
+   .problem{
+    text-align: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+    max-width: 1219px;
+    min-width: 320px;
+    
+   }
+
+   .parttitle{
+    font-size: 64px;
+    font-weight: 500;
+    color: #007765;
+    padding: 48px 55px 16px 55px;
+   }
+
+   .subtitle{
+    font-size: 32px;
+    color:black;
+    font-weight: 400;
+    padding: 0 55px 92px 55px;
+    text-align: justify
+   }
+   
+   .hero_wrap{
+    background: url(../Images/background2.png) center center no-repeat;
+    background-size: cover;
+    padding: 160px 0 160px;
+   }
+
+   .hero{
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 500;
+    font-size: 36px;
+    max-width: 1219px;
+    min-width: 320px;
+    margin: 0 auto;
+    padding: 0 15px;
+    box-sizing: border-box;
+    font-style: italic;
+   }
+.textlogo_block{
+    display: flex;
+}
+
+
+
+.Introducing_title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    padding: 48px 55px 16px 55px;
+
+    text-align: center;
+
+    color: #007765;
+}
+
+.textnelogo, .textlogo{
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+    text-align: justify;
+
+}
+.logoimg{
+    text-align:center;
+}
+
+.introducing{
+
+    text-align: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+    max-width: 1219px;
+    min-width: 320px;
+
+}
+
+.textlogo_block{
+
+    padding: 0 55px 45px 55px;    
+}
+
+.textnelogo{
+
+    padding: 0 55px 45px 55px;
+}
+
+.textlogo_p{
+    padding-left: 48px;
+}
+
