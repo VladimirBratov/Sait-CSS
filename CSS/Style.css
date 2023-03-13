@@ -131,7 +131,7 @@ ul {
 
 
 
-.Introducing_title{
+.Introducing_title, .team_title {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -183,3 +183,41 @@ ul {
     padding-left: 48px;
 }
 
+.team{
+
+    text-align: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+    max-width: 1219px;
+    min-width: 320px;
+    background: #EEEEEE;
+
+}
+
+.name{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #007765;
+}
+.job_title{
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+
+}
+
+.lineteam_1 {
+
+   display:flex;
+}
+
+.lineteam_2{
+    display: flex;
+}
