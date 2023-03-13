@@ -183,6 +183,10 @@ ul {
     padding-left: 48px;
 }
 
+.team_wrap{
+    background: #EEEEEE;
+}
+
 .team{
 
     text-align: center;
@@ -190,7 +194,7 @@ ul {
     box-sizing: border-box;
     max-width: 1219px;
     min-width: 320px;
-    background: #EEEEEE;
+   
 
 }
 
@@ -221,3 +225,31 @@ ul {
 .lineteam_2{
     display: flex;
 }
+
+.about_us_wrap{
+    background-size: cover;
+    background-color: #000000;
+}
+
+.about_us{
+
+    text-align: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+    max-width: 1219px;
+    min-width: 320px;
+    border: 0 15px;
+    
+
+}
+.about {
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #FFFFFF;
+    }
